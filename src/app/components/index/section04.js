@@ -1,6 +1,7 @@
 'use client'
 import Image from 'next/image'
-import img01 from '../../../../public/img/index/Section04img01.webp';
+import img01 from '../../../../public/img/index/section04img01.webp';
+
 
 
 export default function Section04() {

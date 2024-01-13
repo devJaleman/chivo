@@ -1,9 +1,9 @@
 'use client'
 import Image from 'next/image'
-import img01 from '../../../../public/img/index/Section07img01.webp';
-import img02 from '../../../../public/img/index/Section07img02.webp';
-import img03 from '../../../../public/img/index/Section07img03.webp';
-import img04 from '../../../../public/img/index/Section07img04.webp';
+import img01 from '../../../../public/img/index/section07img01.webp';
+import img02 from '../../../../public/img/index/section07img02.webp';
+import img03 from '../../../../public/img/index/section07img03.webp';
+import img04 from '../../../../public/img/index/section07img04.webp';
 
 export default function Section07() {
 
